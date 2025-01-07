@@ -2,7 +2,7 @@
 Class page for the IMT OSIA 2025 session
 # Communication
 
-[Webex link]([https://imt-atlantique.webex.com/meet/MSc-IT](https://imt-atlantique.webex.com/imt-atlantique/j.php?MTID=m2f9220150f30fa1368c8d37e10fb5c84)  
+Webex link: [https://imt-atlantique.webex.com/meet/MSc-IT](https://imt-atlantique.webex.com/imt-atlantique/j.php?MTID=m2f9220150f30fa1368c8d37e10fb5c84)  
 
 
 
@@ -21,3 +21,28 @@ Jan 17th, 14:00 - 15:15 TP, 15:30 - 16:45 lecture
 Jan 21st, 14:00 - 15:15 TP, 15:30 - 16:45 lecture
 
 Jan 22nd, 14:00 - 15:15 TP, 15:30 - 16:45 lecture
+
+
+
+# Session 1 - Jan 7th
+
+* [ML and embeded systems, Supervised Learning](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-2025-content/76d7404acf007be3796dfce922b61cf219633b36/slides/FirstSession/index.html)
+
+* AIML Frameworks
+  * Python, Scikit Learn, Tensorflow, Pytorch, and specialized systems (Matlab, R studio, Edge Impulse, SensiML)
+  * Why Tensorflow for embedded systems - tflite, constraints
+
+ * Supervised learning
+  * Supervised learning context and families
+  * Linear regression
+
+
+# Session 2 - Jan 8th
+  * Lab 1 - Virtual environement setup, Jupyter kick start and Linear regression
+  * [Slides]
+  * Supervised learning
+   * Logistic regression
+   * SVM
+  * Dimension Reduction
+   * PCA
+
