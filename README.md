@@ -2,7 +2,7 @@
 Class page for the IMT OSIA 2025 session
 # Communication
 
-[Webex/Zoom link]([https://imt-atlantique.webex.com/meet/MSc-IT](https://imt-atlantique.webex.com/imt-atlantique/j.php?MTID=m2f9220150f30fa1368c8d37e10fb5c84) -  [https://imt-atlantique.webex.com/meet/MSc-IT to be edited](https://imt-atlantique.webex.com/imt-atlantique/j.php?MTID=m2f9220150f30fa1368c8d37e10fb5c84)
+[Webex link]([https://imt-atlantique.webex.com/meet/MSc-IT](https://imt-atlantique.webex.com/imt-atlantique/j.php?MTID=m2f9220150f30fa1368c8d37e10fb5c84)  
 
 
 
