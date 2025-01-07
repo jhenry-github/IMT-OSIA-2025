@@ -41,8 +41,8 @@ Jan 22nd, 14:00 - 15:15 TP, 15:30 - 16:45 lecture
   * Lab 1 - [Virtual environement setup, Jupyter kick start and Linear regression](https://github.com/jhenry-github/IMT-OSIA-2025-content/blob/main/TPs/1-Linear%20Regression.md)
   * [Slides]
   * Supervised learning (cont.)
-   * Logistic regression
-   * SVM
+    * Logistic regression
+    * SVM
   * Dimension Reduction
-   * PCA
+    * PCA
 
