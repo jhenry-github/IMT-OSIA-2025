@@ -48,10 +48,18 @@ Jan 22nd, 14:00 - 15:15 TP, 15:30 - 16:45 lecture
 
 # Session 3 - Jan 14th
   * Lab 2 - [Logistic regression and SVM](https://github.com/jhenry-github/IMT-OSIA-2025-content/blob/main/TPs/2%20-%20Logistic%20Regression%20and%20SVM.md)
-  * [Supervised learning, Unsupervised learning]()
+  * [Supervised learning, Unsupervised learning](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-2025-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session3/index.html)
   * Supervised learning
     * Random Forests
   * Unsupervised learning
     * k-means
     * DBSCAN
 
+# Session 4 - Jan 15th
+  * Lab 3 - (Unsupervised learning - k-means vs. DBSCAN)[https://github.com/jhenry-github/IMT-OSIA-2025-content/blob/main/TPs/3%20-%20Unsupervised%20Learning.md]
+  * [Neural networks](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-2025-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session4/index.html)
+  * Neural networks
+    * Principles
+    * Perceptrons
+    * Standard ANNs
+    * CNNs for image recognition
