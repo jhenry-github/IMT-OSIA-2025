@@ -55,11 +55,4 @@ Jan 22nd, 14:00 - 15:15 TP, 15:30 - 16:45 lecture
     * k-means
     * DBSCAN
 
-# Session 4 - Jan 15th
-  * Lab 3 - [Unsupervised learning - k-means vs. DBSCAN](https://github.com/jhenry-github/IMT-OSIA-2025-content/blob/main/TPs/3%20-%20Unsupervised%20Learning.md)
-  * [Neural networks]()
-  * Neural networks
-    * Principles
-    * Perceptrons
-    * Standard ANNs
-    * CNNs for image recognition
+    * CNN example with tensorflow
