@@ -55,4 +55,19 @@ Jan 22nd, 14:00 - 15:15 TP, 15:30 - 16:45 lecture
     * k-means
     * DBSCAN
 
+# Session 4 - Jan 15th
+  * Lab 3 - (Unsupervised learning - k-means vs. DBSCAN)[https://github.com/jhenry-github/IMT-OSIA-2025-content/blob/main/TPs/3%20-%20Unsupervised%20Learning.md]
+  * [Neural networks](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-2025-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session4/index.html)
+  * Neural networks
+    * Principles
+    * Perceptrons
+    * Standard ANNs
+    * CNNs for image recognition
+
+# Session 5 - Jan 17th
+  * Lab 4 - [Keyword recognition on xG24 and Edge Impulse](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-2025-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session5_lab/index.html)
+  * [AIML on IoT with TensorFlow](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-2025-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session5/index.html)
+  * Running AIML for IoT - tensorflow
+    * Supervised models on scikit learn vs tensorflow
+    * tensorflow ANNs structures
     * CNN example with tensorflow
