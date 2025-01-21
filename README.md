@@ -71,3 +71,12 @@ Jan 22nd, 14:00 - 15:15 TP, 15:30 - 16:45 lecture
     * Supervised models on scikit learn vs tensorflow
     * tensorflow ANNs structures
     * CNN example with tensorflow
+
+ # Session 6 - Jan 21st
+  * Lab 5 - [Tensorflow lab, tflite export](https://github.com/jhenry-github/IMT-OSIA-2025-content/blob/main/TPs/5%20-%20Tensorflow%20models%20for%20embedded%20systems.md)
+  * [Generative AI]()
+  * Generative AI
+    * Gen AI principles
+    * Language modeling
+    * Tokenization, word embedding
+    * Transformer, self-attention, encoder, decoder
