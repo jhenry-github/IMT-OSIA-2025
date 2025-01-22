@@ -74,9 +74,15 @@ Jan 22nd, 14:00 - 15:15 TP, 15:30 - 16:45 lecture
 
  # Session 6 - Jan 21st
   * Lab 5 - [Tensorflow lab, tflite export](https://github.com/jhenry-github/IMT-OSIA-2025-content/blob/main/TPs/5%20-%20Tensorflow%20models%20for%20embedded%20systems.md)
-  * [Generative AI]()
+  * [Generative AI](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-2025-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session6/index.html)
   * Generative AI
     * Gen AI principles
     * Language modeling
     * Tokenization, word embedding
     * Transformer, self-attention, encoder, decoder
+
+ # Session 7 - Jan 22nd
+  * Lab 6 - [Building an app on xG24 and inserting a tflite model](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-2025-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session7_lab/index.html)
+   
+  * [How to fail with an embedded AIML project](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-2025-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session7/index.html)
+
